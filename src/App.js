@@ -55,7 +55,7 @@ function App() {
       <main>
         <div>
           <h1 id='main-text'>Bem-vindo(a) ao <span>Brazil Data</span></h1>
-          <p>Pesquise os registros de nomes no Brasil entre 1980 e 2010.</p>
+          <p>Pesquise os registros de nascimento por nome no Brasil entre 1980 e 2010.</p>
 
           <div className="search-container">
             <input
