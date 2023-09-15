@@ -81,7 +81,7 @@ function App() {
               {periodosSelecionados.length > 0 && ( // Apenas mostra o nome se houver dados de pelo menos um dos períodos desejados
                 <p className="title">{resultadoNome}</p>
               )}
-              <p className="text">Descubra quantas pessoas compartilham este nome entre 1980 e 2010.</p>
+              <p className="text">Descubra quantas pessoas compartilham este nome e sua história entre 1980 e 2010.</p>
             </div>
 
             <div className="back">
