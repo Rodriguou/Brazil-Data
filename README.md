@@ -19,8 +19,11 @@
 
 > Versões
 
+<img src="./src/images/Captura 1.png"/>
+<img src="./src/images/Captura 2.png"/>
+<img src="./src/images/Captura 3.png"/>
 
   ## Autores
 
-  * **Rodrigo Candido** 
-  * **Samuel Leite**
+  * **[Rodrigo Candido](https://github.com/Rodriguou)** 
+  * **[Samuel Leite](https://github.com/ProgrammerAndInvestor)**
