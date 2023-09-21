@@ -10,8 +10,8 @@
 </h1>
 
 <p align="justify">
-  Bem-vindo ao repositório do projeto do site Brazil Data! Aqui você encontrará todos os arquivos e recursos relacionados ao desenvolvimento do site.
-  Este projeto é um site simples que permite aos usuários inserirem o nome de uma pessoa e descobrirem a quantidade de registros desse nome em cada década, desde 1980 até 2010. É uma ferramenta    interessante para explorar como a popularidade dos nomes varia ao longo do tempo com base em dados demográficos do Instituto Brasileiro de Geografia e Estatística (IBGE).
+  Bem-vindo ao repositório do projeto do site <strong>Brazil Data</strong>! Aqui você encontrará todos os arquivos e recursos relacionados ao desenvolvimento do site.
+  Este projeto é um site simples que permite aos usuários inserirem o nome de uma pessoa e descobrirem a quantidade de registros desse nome em cada década, desde 1980 até 2010. É uma      ferramenta interessante para explorar como a popularidade dos nomes varia ao longo do tempo com base em dados demográficos do Instituto Brasileiro de Geografia e Estatística (IBGE).
 </p>
 
 <div>
