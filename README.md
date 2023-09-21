@@ -4,13 +4,13 @@
   </a>
 </p>
 
-<a href="https://brazil-data.netlify.app"> 
-  <h1 align="center">
-    Brazil Data
-  </h1>
-</a>
+
+<h1 align="center">
+  Brazil Data
+</h1>
 
 <p align="justify">
+  Bem-vindo ao repositório do projeto do site do Brazil Data! Aqui você encontrará todos os arquivos e recursos relacionados ao desenvolvimento do site.
   Este projeto é um site simples que permite aos usuários inserirem o nome de uma pessoa e descobrirem a quantidade de registros desse nome em cada década, desde 1980. É uma ferramenta    interessante para explorar como a popularidade dos nomes varia ao longo do tempo com base em dados demográficos do Instituto Brasileiro de Geografia e Estatística (IBGE).
 </p>
 
@@ -24,6 +24,11 @@
 <img src="./src/images/Captura 1.png"/>
 <img src="./src/images/Captura 2.png"/>
 <img src="./src/images/Captura 3.png"/>
+
+## Acesso ao Site
+Para acessar o site do Brazil Data, clique no link abaixo:
+
+[Link para o Site](https://brazil-data.netlify.app)
 
   ## Autores
 
