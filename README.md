@@ -16,6 +16,8 @@
 
 <div>
   <img src="https://img.shields.io/static/v1?label=React&message=v18.2.0&color=1ED688&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=NodeJS&message=v18.17.0&color=1ED688&style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/static/v1?label=NPM&message=v9.6.7&color=1ED688&style=for-the-badge&logo=npm"/>
   <img src="https://img.shields.io/static/v1?label=Axios&message=v1.5.0&color=1ED688&style=for-the-badge&logo=axios"/>
 </div>
 
