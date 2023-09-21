@@ -26,7 +26,7 @@
 <img src="./src/images/Captura 3.png"/>
 
 ## Acesso ao Site
-Para acessar o site do Brazil Data, clique no link abaixo:
+Para acessar o site Brazil Data, clique no link abaixo:
 
 [Link para o Site](https://brazil-data.netlify.app)
 
