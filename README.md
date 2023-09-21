@@ -4,9 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">
-  Brazil Data
-</h1>
+<a href="https://brazil-data.netlify.app"> 
+  <h1 align="center">
+    Brazil Data
+  </h1>
+</a>
 
 <p align="justify">
   Este projeto é um site simples que permite aos usuários inserirem o nome de uma pessoa e descobrirem a quantidade de registros desse nome em cada década, desde 1980. É uma ferramenta    interessante para explorar como a popularidade dos nomes varia ao longo do tempo com base em dados demográficos do Instituto Brasileiro de Geografia e Estatística (IBGE).
